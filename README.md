@@ -11,10 +11,11 @@ Working on private projects
 
 - 🌱 I’m currently learning **Spring, React, Jenkins, Django**
 
-- 📫 How to reach me **mihailgjorgjievski@yahoo.com**
+- 📫 Reach me at **mihailgjorgjievski@yahoo.com** or **lin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/mihail-gjorgjievski-9a25b2283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mihail-gjorgjievski" height="30" width="40" /></a>
 <a href="https://fb.com/barcamicho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="barcamicho" height="30" width="40" /></a>
 <a href="https://instagram.com/ximailsemaro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ximailsemaro" height="30" width="40" /></a>
 </p>
