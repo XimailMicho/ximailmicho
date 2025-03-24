@@ -3,7 +3,7 @@
 
 🎓📚🏫 Third-year student in FCSE, Ss. Cyril and Methodius, Skopje 
 
-🔧📡 Learning multiple technologies at once 💻
+🔧📡💻 Learning multiple technologies at once 
 
 🛠️💼📈 Working on private projects: 
 
