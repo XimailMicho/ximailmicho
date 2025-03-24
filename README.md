@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mihail</h1>
 <h3 align="center">Computer science and engineering student</h3>
 
-Third year student in the FCSE, Ss.Cyril and Methodius,Skopje
+🎓📚🏫 Third-year student in FCSE, Ss. Cyril and Methodius, Skopje 
 
-Learning multiple technologies at once
+🔧📡 Learning multiple technologies at once 💻
 
-Working on private projects
+🛠️💼📈 Working on private projects: 
 
-- 🔭 I’m currently working on **Stock-Market-Analytics, Meat-Industry-Software**
+🎮♟️🔥 Passionate about gaming and chess
 
-- 🌱 I’m currently learning **Spring, React, Jenkins, Django**
+ 📏🔲🧮 Fascinated by how dimensions can be processed linearly
 
-- 📫 Reach me at **mihailgjorgjievski@yahoo.com** or **lin**
+ 🎵🎸 Music is my language, passionate about guitar and music generated electronicly
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
