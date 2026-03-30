@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mihail</h1>
 <h3 align="center">Computer science and engineering student</h3>
 
-🎓📚🏫 Third-year student in FCSE, Ss. Cyril and Methodius, Skopje 
+🎓📚🏫 Fourth-year student in FCSE, Ss. Cyril and Methodius, Skopje 
 
 🔧📡💻 Learning multiple technologies at once 
 
-🛠️💼📈 Working on private projects: 
+🛠️💼📈 Working on private projects 
 
 🎮♟️🔥 Passionate about gaming and chess
 
